@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "ES2018",
+    "strict": true,
+    "allowJs": false,
+    "noEmit": true,
+    "jsx": "react-jsx",
+    "module": "CommonJS",
+    "moduleResolution": "Node",
+    "lib": ["DOM", "ESNext"]
+  },
+  "include": ["src/**/*"]
+}
